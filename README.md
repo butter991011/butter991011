@@ -13,15 +13,6 @@
 
 ---
 
-# Work Experience
-
-- Full Stack Developer & Trading Bot Architect, Kaize3: 2023 - Present (Team size: 6)  
-- Blockchain & Trading Bot Developer, Alpha Trading Labs: 2021 - 2023 (Team size: 12)  
-- Freelance Trading Bot Engineer, crypto clients worldwide: 2019 - 2021  
-- Full Stack Developer, Web Apps, and APIs, Various Startups: 2012 - 2019  
-
----
-
 # Why Me❓
 
 - Extensive expertise in full stack development using modern JavaScript/TypeScript frameworks such as React, Node.js, and NestJS  
